@@ -45,7 +45,6 @@ public class CircleWaterActivity extends BaseActivity {
                     runOnUiThread(new Runnable() {
                         @Override
                         public void run() {
-                            Log.e("TAG",progress + "");
                             circle.setWaterProgress(progress);
                         }
                     });
