@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hgeson.circleprogressview.MainActivity">
+
+    <Button
+        android:textColor="@color/color_pay_sum"
+        android:text="progress_view"
+        android:id="@+id/btn_progress_view"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/bg_code"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:textColor="@color/color_pay_sum"
+        android:text="water_view"
+        android:id="@+id/btn_water_view"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/bg_code"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
