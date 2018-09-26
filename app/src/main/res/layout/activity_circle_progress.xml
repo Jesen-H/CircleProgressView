@@ -59,6 +59,8 @@
             android:layout_height="150dp"
             app:radius="60dp"
             app:isabove="true"
+            app:strokeWidth="5dp"
+            app:unstrokeWidth="5dp"
             app:bottomtxt="自定义文字"
             app:bottomtxtColor="@color/color_pay_sum"
             app:unringColor="@color/line_color"
