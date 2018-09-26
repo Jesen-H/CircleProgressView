@@ -1,3 +1,3 @@
 # CircleProgressView
 Custom circular progress bar<br/>
-1111
+![](https://github.com/changechenyu/ShakeToFresh/blob/master/app/src/main/res/drawable/test.png)
